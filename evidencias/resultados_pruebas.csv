@@ -1,0 +1,9 @@
+ID,Nombre,PASS,F_media,Sigma,Mejor,Regiones,Violaciones,Resumen
+T1,Sin restricciones vs. Con restricciones,PASS,22.280,0.000,22.280,4,0,"Con rest: F=22.28 (0 viol) | Sin rest: F=23.21"
+T2,Evolución a través de generaciones,PASS,24.150,0.000,24.150,5,0,"Gen 0: 11.16 → Gen Final: 24.15"
+T3,Zonas de desechos espaciales,PASS,25.468,0.000,25.468,6,0,"Violaciones en zonas de desechos: 0"
+T4,Posiciones ocupadas A y B,PASS,22.668,0.000,22.668,5,0,"Violaciones en Objetos A y B: 0"
+T5,Espacio reducido (zonas extra),PASS,24.190,0.000,24.190,5,0,"Espacio reducido (4 zonas extra): F=24.19, válida=true"
+T6,Condición difícil / inviable,PASS,16.799,0.000,16.799,4,0,"Yucatán inalcanzable (0 sats), 0 violaciones, cubre 4/6 regiones"
+T7,Variación estadística (10 semillas),PASS,24.175,1.011,25.773,5,0,"10 corridas: F̄=24.17, σ=1.01, mejor=25.77, peor=22.92"
+T8,Resiliencia N-1 + Cambio Dinámico de Prioridades,PASS,26.858,0.000,26.858,5,0,"Fallo N-1 (7 sats): F=22.12 (-13.0%). Re-evolución Australia Alta: F=26.86"
