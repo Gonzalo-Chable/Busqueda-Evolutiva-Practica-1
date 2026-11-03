@@ -1,5 +1,11 @@
 # AstroShield — Evolución de Constelación Inteligente
 
+**Equipo de Desarrollo:**
+* Gonzalo Alexander Chable Ake
+* Lopez Ruiz Rey
+* Edwin Eduardo Cruz Leon
+* Uzias Isai Perez Rodriguez
+* Rusel Emiliano Tec Chi 
 ## Entregable 1: Definición del Problema y Modelo Computacional
 
 Para evitar la trivialidad geométrica y física en la simulación, el problema se modeló utilizando distancias angulares ortodrómicas en lugar de proyecciones planas. 
